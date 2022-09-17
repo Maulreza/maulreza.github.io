@@ -1,1 +1,2 @@
 Print "hellow word"
+apa kabar, apa harimu baik baik aja 
